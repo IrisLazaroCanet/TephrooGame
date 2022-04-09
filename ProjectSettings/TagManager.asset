@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pointer
+  - KeyObject
+  - Key
+  - Door
+  - KeyStairs
+  - Stairs
+  - Trapdoor
+  - KeyTrapdoor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Backdrop
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Rain
+    uniqueID: 4148649741
+    locked: 0
+  - name: Background
+    uniqueID: 931995465
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Game object
+    uniqueID: 1438035431
+    locked: 0
+  - name: Player
+    uniqueID: 1528461711
+    locked: 0
+  - name: Overlay
+    uniqueID: 467192881
+    locked: 0
